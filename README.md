@@ -11,7 +11,7 @@
   </p>
 
 
-<p>Como practicante de Backend, he adquirido experiencia trabajando con tecnologías como Java utilizando Spring Boot, así como con Python utilizando FastAPI. Mi especialización incluye el desarrollo de soluciones robustas en el lado del servidor. He aplicado mis conocimientos en Java para construir aplicaciones eficientes con Spring Boot, y en Python, he utilizado FastAPI para desarrollar servicios web rápidos y escalables.
+<p>Como practicante Backend, he adquirido experiencia trabajando con tecnologías como Java utilizando Spring Boot, así como con Python utilizando FastAPI. Mi especialización incluye el desarrollo de soluciones robustas en el lado del servidor. He aplicado mis conocimientos en Java para construir aplicaciones eficientes con Spring Boot, y en Python, he utilizado FastAPI para desarrollar servicios web rápidos y escalables.
 
 Además, he llevado a cabo un proyecto completo en el lado del Frontend utilizando React. En este proyecto, he utilizado Axios para gestionar las solicitudes HTTP y he implementado una API falsa con JSON Server para simular el intercambio de datos entre el Frontend y el Backend. 
 
