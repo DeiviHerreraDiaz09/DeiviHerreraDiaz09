@@ -11,12 +11,13 @@
   </p>
 
 
-<p>Como practicante Backend, he adquirido experiencia trabajando con tecnologías como Java utilizando Spring Boot, así como con Python utilizando FastAPI. Mi especialización incluye el desarrollo de soluciones robustas en el lado del servidor. He aplicado mis conocimientos en Java para construir aplicaciones eficientes con Spring Boot, y en Python, he utilizado FastAPI para desarrollar servicios web rápidos y escalables.
-
-Además, he llevado a cabo un proyecto completo en el lado del Frontend utilizando React. En este proyecto, he utilizado Axios para gestionar las solicitudes HTTP y he implementado una API falsa con JSON Server para simular el intercambio de datos entre el Frontend y el Backend. 
+<p>Como practicante Backend, he adquirido experiencia trabajando con tecnologías como Java, Python, JavaScript pasando por sus diferentes marcos de trabajo. Mi especialización incluye el desarrollo de soluciones robustas en el lado del servidor. 
 
 
 Estas experiencias me han permitido contribuir de manera integral al desarrollo de proyectos completos, desde la implementación hasta la integración de diversas tecnologías en ambas capas, Frontend y Backend. Estoy comprometido a seguir ampliando mis habilidades y aplicar las mejores prácticas en el desarrollo de software.
+
+He estado explorando y aprendiendo nuevas tecnologías como React para el desarrollo de interfaces de usuario dinámicas, Express para la construcción de aplicaciones web y APIs robustas, NestJS para la creación de aplicaciones escalables y Docker para la administración eficiente de contenedores. Cada una de estas herramientas contribuye a mi crecimiento como desarrollador y me capacita para abordar una amplia gama de proyectos con confianza.
+
 </p>
 
 
@@ -42,9 +43,22 @@ Estas experiencias me han permitido contribuir de manera integral al desarrollo 
   <a href="https://github.com/ELanza-48" target="_blank">
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
   </a>
+  <a href="https://reactjs.org/">
+    <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  </a>
+   <a href="https://expressjs.com/">
+    <img alt="Express" src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white">
+  </a>
+  <a href="https://www.typescriptlang.org/">
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  </a>
+   <a href="https://nestjs.com/">
+    <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
+  </a>
+  <a href="https://www.docker.com/">
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+ 
  
 </p>
 
