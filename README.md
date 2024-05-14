@@ -18,13 +18,14 @@ Estas experiencias me han permitido contribuir de manera integral al desarrollo 
 
 He estado explorando y aprendiendo nuevas tecnologías como React para el desarrollo de interfaces de usuario dinámicas, Express para la construcción de aplicaciones web y APIs robustas, NestJS para la creación de aplicaciones escalables y Docker para la administración eficiente de contenedores. Cada una de estas herramientas contribuye a mi crecimiento como desarrollador y me capacita para abordar una amplia gama de proyectos con confianza.
 
+
+```
+"La obsesión vence al talento." 
+```
 </p>
 
 
-
-
 ## Tech Stack<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
-
 
 <p align="center">
   <a href="https://www.python.org" target="_blank">
