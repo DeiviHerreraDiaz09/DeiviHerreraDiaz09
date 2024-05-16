@@ -13,7 +13,7 @@
 <h3>About me</h3>
 Hello World! I'm a passionate Colombian 🇨🇴 software developer with experience in creating robust and scalable server-side solutions. My professional journey has focused on working with technologies such as Java, Python, and JavaScript, using various frameworks for each of them.
 
-Technical Experience
+<h4>Technical Experience</h4>
 - Java: I have extensively worked with Spring Boot for developing web applications and RESTful services, leveraging its ease of configuration and powerful ecosystem.
 - JavaScript: In JavaScript, I have used the Express.js framework for developing web servers and RESTful APIs, as well as React.js for creating interactive and dynamic user interfaces.
 - TypeScript: In TypeScript, I have used NestJS for backend application development, leveraging its modular approach and easy integration with modern libraries and frameworks.
