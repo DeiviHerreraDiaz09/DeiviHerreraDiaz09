@@ -63,3 +63,17 @@ He estado explorando y aprendiendo nuevas tecnologías como React para el desarr
  
 ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
 </p>
+
+<h2 align="center"> Estadisticas 🚀</h2>
+<h3 align="center"> Cuenta Personal </h3>
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=DeiviHerreraDiaz09&show_icons=true&theme=tokyonight"/>
+</p>
+<br>
+<p align="center">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeiviHerreraDiaz09&theme=tokyonight"/>
+</p>
+<br>
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeiviHerreraDiaz09&theme=tokyonight&layout=compact"/>
+</p>
