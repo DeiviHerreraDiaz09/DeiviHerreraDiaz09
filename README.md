@@ -10,14 +10,16 @@
   </a>
   </p>
 
+<h3>About me</h3>
+Hello World! I'm a passionate Colombian 🇨🇴 software developer with experience in creating robust and scalable server-side solutions. My professional journey has focused on working with technologies such as Java, Python, and JavaScript, using various frameworks for each of them.
 
-<p>Como practicante Backend, he adquirido experiencia trabajando con tecnologías como Java, Python, JavaScript pasando por sus diferentes marcos de trabajo. Mi especialización incluye el desarrollo de soluciones robustas en el lado del servidor. 
+Technical Experience
+- Java: I have extensively worked with Spring Boot for developing web applications and RESTful services, leveraging its ease of configuration and powerful ecosystem.
+- JavaScript: In JavaScript, I have used the Express.js framework for developing web servers and RESTful APIs, as well as React.js for creating interactive and dynamic user interfaces.
+- TypeScript: In TypeScript, I have used NestJS for backend application development, leveraging its modular approach and easy integration with modern libraries and frameworks.
+- Python: In Python, I have worked with FastAPI for rapid development of web APIs with Python 3.6+ based on open standards, including support for typing in Python, making it highly productive and easy to understand.
 
-
-Estas experiencias me han permitido contribuir de manera integral al desarrollo de proyectos completos, desde la implementación hasta la integración de diversas tecnologías en ambas capas, Frontend y Backend. Estoy comprometido a seguir ampliando mis habilidades y aplicar las mejores prácticas en el desarrollo de software.
-
-He estado explorando y aprendiendo nuevas tecnologías como React para el desarrollo de interfaces de usuario dinámicas, Express para la construcción de aplicaciones web y APIs robustas, NestJS para la creación de aplicaciones escalables y Docker para la administración eficiente de contenedores. Cada una de estas herramientas contribuye a mi crecimiento como desarrollador y me capacita para abordar una amplia gama de proyectos con confianza.
-
+I am committed to continuously expanding my skills and knowledge in the field of software development, staying up-to-date with the latest trends and technologies. My goal is to apply best practices in every project I work on.
 
 ```
 "La obsesión vence al talento." 
@@ -64,7 +66,7 @@ He estado explorando y aprendiendo nuevas tecnologías como React para el desarr
 ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
 </p>
 
-<h2 align="center"> Estadisticas 🚀</h2>
+<h2 align="center"> Statistics 🚀</h2>
 <table align="center">
   <tr>
     <td>
