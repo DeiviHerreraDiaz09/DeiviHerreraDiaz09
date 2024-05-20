@@ -74,9 +74,6 @@ I am committed to continuously expanding my skills and knowledge in the field of
       <img src="https://github-readme-stats.vercel.app/api?username=DeiviHerreraDiaz09&show_icons=true&theme=tokyonight"/>
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeiviHerreraDiaz09&theme=tokyonight"/>
-    </td>
-    <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeiviHerreraDiaz09&theme=tokyonight&layout=compact"/>
     </td>
   </tr>
