@@ -5,13 +5,19 @@
 
 <p align ="center">
   
-  <a href="mailto:herreradiazdeivistiven2004@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="example"/>
-  </a>
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=DeiviHerreraDiaz09&data=repositories,stars,commits&theme=viridescent)](https://github.com/Jurredr/github-widgetbox)
   </p>
 
 <h3>About me</h3>
 Hello World! I'm a passionate Colombian 🇨🇴 software developer with experience in creating robust and scalable server-side solutions. My professional journey has focused on working with technologies such as Java, Python, and JavaScript, using various frameworks for each of them.
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/deiviherreradiaz09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deiviherreradiaz09" height="30" width="40" /></a>
+<a href="https://www.instagram.com/deiviestiven16?igsh=M3Vvam8wN2k1MnJv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deiviestiven16" height="30" width="40" /></a>
+<a href="mailto:herreradiazdeivistiven2004@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Email" height="30" width="40" /></a>
+</p>
+
 
 <h4>Technical Experience</h4>
 
@@ -70,7 +76,7 @@ I am committed to continuously expanding my skills and knowledge in the field of
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   </a>
   <a href="https://www.figma.com/" target="_blank">
-    <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+    <img alt="Figma" src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white">
   </a> 
    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -88,17 +94,19 @@ I am committed to continuously expanding my skills and knowledge in the field of
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
   </a>
   
-![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
 </p>
 
 <h2 align="center"> Statistics 🚀</h2>
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=DeiviHerreraDiaz09&show_icons=true&theme=tokyonight"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=DeiviHerreraDiaz09&include_all_commits=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="DeiviHerreraDiaz09's Github Stats">
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeiviHerreraDiaz09&theme=tokyonight&layout=compact"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeiviHerreraDiaz09&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" />
     </td>
   </tr>
 </table>
+
+
+
