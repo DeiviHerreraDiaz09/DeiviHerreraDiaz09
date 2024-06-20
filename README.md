@@ -100,9 +100,6 @@ I am committed to continuously expanding my skills and knowledge in the field of
 <table align="center">
   <tr>
     <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=DeiviHerreraDiaz09&include_all_commits=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="DeiviHerreraDiaz09's Github Stats">
-    </td>
-    <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeiviHerreraDiaz09&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" />
     </td>
   </tr>
