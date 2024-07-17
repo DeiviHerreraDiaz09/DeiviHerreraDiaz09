@@ -18,14 +18,6 @@ Hello World! I'm a passionate Colombian 🇨🇴 software developer with experie
 <a href="mailto:herreradiazdeivistiven2004@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Email" height="30" width="40" /></a>
 </p>
 
-
-<h4>Technical Experience</h4>
-
-- Java: I have extensively worked with Spring Boot for developing web applications and RESTful services, leveraging its ease of configuration and powerful ecosystem.
-- JavaScript: In JavaScript, I have used the Express.js framework for developing web servers and RESTful APIs, as well as React.js for creating interactive and dynamic user interfaces.
-- TypeScript: In TypeScript, I have used NestJS for backend application development, leveraging its modular approach and easy integration with modern libraries and frameworks.
-- Python: In Python, I have worked with FastAPI for rapid development of web APIs with Python 3.6+ based on open standards, including support for typing in Python, making it highly productive and easy to understand.
-
 I am committed to continuously expanding my skills and knowledge in the field of software development, staying up-to-date with the latest trends and technologies. My goal is to apply best practices in every project I work on.
 
 ```
