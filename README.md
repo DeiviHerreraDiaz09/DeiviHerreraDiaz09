@@ -9,7 +9,7 @@
   </p>
 
 <h3>About me</h3>
-Hello World! I'm a passionate Colombian 🇨🇴 software developer with experience in creating robust and scalable server-side solutions. My professional journey has focused on working with technologies such as Java, Python, and JavaScript, using various frameworks for each of them.
+Hello World! Soy un apasionado desarrollador de software colombiano 🇨🇴 con experiencia en la creación de soluciones robustas y escalables del lado del servidor. Mi trayectoria profesional se ha centrado en trabajar con tecnologías como Java, Python y JavaScript, utilizando diversos frameworks para cada una de ellas.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,7 +18,7 @@ Hello World! I'm a passionate Colombian 🇨🇴 software developer with experie
 <a href="mailto:herreradiazdeivistiven2004@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Email" height="30" width="40" /></a>
 </p>
 
-I am committed to continuously expanding my skills and knowledge in the field of software development, staying up-to-date with the latest trends and technologies. My goal is to apply best practices in every project I work on.
+Me comprometo a ampliar continuamente mis habilidades y conocimientos en el campo del desarrollo de software, manteniéndome al día de las últimas tendencias y tecnologías. Mi objetivo es aplicar las mejores prácticas en cada proyecto en el que trabajo.
 
 ```
 "La obsesión vence al talento." 
