@@ -4,8 +4,6 @@
 </p>
 
 <p align ="center">
-  
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=DeiviHerreraDiaz09&data=repositories,stars,commits&theme=viridescent)](https://github.com/Jurredr/github-widgetbox)
   </p>
 
 <h3>About me</h3>
